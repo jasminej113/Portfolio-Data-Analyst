@@ -6,4 +6,8 @@ The food aggregator earns money by collecting a fixed margin of the delivery ord
 
 Objective: To analyze the data to get a fair idea about the demand of different restaurants which will help them in enhancing their customer experience. Recommendations will help improve business insight solutions such as boosting sales.
 
-tech stack: Python, Excel, Jupyter Notebook, Pandas, NumPy, Matplotlib
+Tech stack: Python, Excel, Jupyter Notebook
+
+Python Data Manipulation Libraries: Pandas, Numpy
+
+Python Data Visualization Libraries: Matplotlib, Seaborn
