@@ -1,6 +1,8 @@
 # Portfolio-Data-Analyst
 This repository contains my Data Analytics portfolio projects ranging from SQL, Python, and Excel.
 
+Please checkout my Post Graduate Business Analytics and Data Science e-Portfolio here: https://eportfolio.mygreatlearning.com/jasmine-john 
+
 # 1. Restaurant Aggregator App Exploratory Data Analysis for Demand Insights (FoodHub.html)
 The food aggregator earns money by collecting a fixed margin of the delivery order from the restaurants.
 
