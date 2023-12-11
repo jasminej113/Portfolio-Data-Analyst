@@ -1,5 +1,5 @@
 # Portfolio-Data-Analyst
-This repository contains my Data Analytics portfolio projects ranging from SQL, Python, and Excel.
+This repository contains my Data Analytics Portfolio projects ranging from SQL, Python, Excel, and even Quality Assurance Test Cases.
 
 Please checkout my Post Graduate Business Analytics and Data Science e-Portfolio here: https://eportfolio.mygreatlearning.com/jasmine-john 
 
